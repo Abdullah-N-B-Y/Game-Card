@@ -1,0 +1,151 @@
+C:\Users\AMCT\source\repos\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\source\repos\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\source\repos\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form11.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\source\repos\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\user\Desktop\New folder (4)\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\Desktop\Game\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\Desktop\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\New Game\Game\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\Desktop\New Game\Game\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\Desktop\New Game\Game\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\New Game\Game\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\AMCT\Desktop\Game New\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\Desktop\Game New\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game New\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form14.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form11.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.Form15.resources
+C:\Users\AMCT\Desktop\Game New\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\AMCT\Desktop\Game\Game1\bin\Debug\Game1.exe.config
+C:\Users\AMCT\Desktop\Game\Game1\bin\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game\Game1\bin\Debug\Game1.pdb
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form10.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form11.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form12.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form13.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form14.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form15.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form4.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form5.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form6.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form7.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form8.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Form9.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.exe
+C:\Users\AMCT\Desktop\Game\Game1\obj\Debug\Game1.pdb

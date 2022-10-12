@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Welcome-PNG-HD-Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Welcome-PNG-HD-Image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kary_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kary_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sun_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sun_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fin_Jek2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fin_Jek2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant7_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant7_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fin_Jek1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fin_Jek1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lezly_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lezly_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Back_Button2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back_Button2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smurf2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smurf2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant4_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant4_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="color1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\color1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JellyFish_Neon_Card2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JellyFish_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="color2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\color2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_list_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_list_logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant10_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant10_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="press-start" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\press-start.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Peny_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Peny_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smurf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smurf1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="list_Logo6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\list_Logo6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nature_back31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nature_back31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anqles_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anqles_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BugsBunny2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BugsBunny2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="card22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\card22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shm_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shm_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fish_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fish_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nature_back3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nature_back3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_start1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_start1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reload1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reload1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sun_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sun_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bears" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bears.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Welcome2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Welcome2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Welcome31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Welcome31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Profile3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Profile3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Correct_Sign_Neon_Card11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Correct_Sign_Neon_Card1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant8_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant8_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Form2_Back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Form2_Back1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_back1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Earth_Neon_Card2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Earth_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Female_Sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Female_Sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Male_Face" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Male_Face.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant6_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant6_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shm_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shm_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant9_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant9_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sarah_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sarah_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nature1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nature1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_3start_and_soil1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_3start_and_soil1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Logo7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Logo7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Report_List2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Report_List2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant2_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant2_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1rsz_back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1rsz_back1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="card11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\card11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pumb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pumb1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Select_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Select_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1rsz_1rsz_x_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1rsz_1rsz_x_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant8_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant8_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant9_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant9_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BugsBunny1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BugsBunny1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anqles_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anqles_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant3_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant3_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nature_back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nature_back1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_Button2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save_Button2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gif1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gif1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anayes_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anayes_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Profile1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Profile1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panana_Jo_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panana_Jo_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fin_Jek3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fin_Jek3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Space_Gif1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Space_Gif1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant7_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant7_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Darwen_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Darwen_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fish_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fish_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Necole_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Necole_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="two3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\two3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New_Button2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New_Button2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JellyFish_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JellyFish_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nature_back2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nature_back2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Double_List2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Double_List2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1061-10 (2) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1061-10 (2) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Smurf3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Smurf3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Logo8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Logo8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1rsz_reload_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1rsz_reload_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Correct_Sign_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Correct_Sign_Neon_Card1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anqles_Neon_Card2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anqles_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sadafah_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sadafah_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1rsz_1rsz_1list_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1rsz_1rsz_1list_logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Profile4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Profile4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1list_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1list_logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1reload1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1reload1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant5_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant5_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Earth_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Earth_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant10_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant10_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant6_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant6_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Welcome3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Welcome3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="two2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\two2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sadafah_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sadafah_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="X_Sign_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\X_Sign_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Small_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Small_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Neon_Question_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Neon_Question_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pumb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pumb2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Report_List3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Report_List3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_1rsz_1list_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_1rsz_1list_logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reload_Sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reload_Sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gambol_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gambol_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Svae_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Svae_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Show_Back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Show_Back1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Retshard_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Retshard_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start_And_Soil1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start_And_Soil1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="List_Logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List_Logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Earth_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Earth_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Give_Up_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Give_Up_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tobaes_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tobaes_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant5_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant5_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Next_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Next_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reload_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reload_button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Male_Sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Male_Sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JellyFish_Neon_Card1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JellyFish_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="double_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double_list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Start_Button1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start_Button1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Report_List1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Report_List1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plant1_Neon_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plant1_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anqles_Neon_Card4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anqles_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anqles_Neon_Card3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anqles_Neon_Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_2start_and_soil1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsz_2start_and_soil1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ocean_Gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ocean_Gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Play_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Play_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{60DDBC69-3482-4B70-BEA1-8D487917D6D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Game1</RootNamespace>
+    <AssemblyName>Game1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.cs">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.cs">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.cs">
+      <DependentUpon>Form13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.cs">
+      <DependentUpon>Form14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15.Designer.cs">
+      <DependentUpon>Form15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15.resx">
+      <DependentUpon>Form15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neon_Question_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1rsz_x_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X_Sign_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant1_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant2_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant3_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant4_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shm_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shm_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload_Sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_reload_sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_start1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start_And_Soil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_2start_and_soil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_3start_and_soil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BugsBunny1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BugsBunny2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pumb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pumb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Show_Back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\two2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\two3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1reload1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smurf1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smurf2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smurf3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Welcome-PNG-HD-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\press-start.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Welcome2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Welcome3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature_back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature_back2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature_back3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Form2_Back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Profile4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Profile3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Profile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Logo8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Logo7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_Logo6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1rsz_1list_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1list_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1list_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_list_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nature_back31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Welcome31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report_List1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report_List2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report_List3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fin_Jek1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fin_Jek2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fin_Jek3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ocean_Gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gif1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Space_Gif1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New_Button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\double_list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double_List2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1061-10 %282%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bears.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Give_Up_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Svae_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_Button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male_Face.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male_Sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Female_Sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Correct_Sign_Neon_Card1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anqles_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fish_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sadafah_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JellyFish_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sun_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Earth_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant10_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant9_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant8_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant7_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant6_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plant5_Neon_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gambol_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darwen_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anayes_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Retshard_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Necole_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panana_Jo_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sarah_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lezly_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Peny_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kary_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tobaes_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Small_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
